@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.diebold.pullforcegaugeconfigurator</Name>
+  <DisplayName>Pullforce Gauge Configurator</DisplayName>
+  <Description>This installer installs the Configuration tool for the digital Pullforce Gauge from H. Diebold GmbH and Co.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2023-11-30</ReleaseDate>
+  <UpdateFile CompressedSize="23898560" OS="Any" UncompressedSize="94326568"/>
+  <DownloadableArchives>fonts.7z,generic.7z,iconengines.7z,imageformats.7z,images.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="License agreement"/>
+   <License file="LGPL_v3.txt" name="LGPL Version 3"/>
+   <License file="GPL_v3.txt" name="GPL Version 3"/>
+   <License file="Used libraries.txt" name="Used Libraries"/>
+   <License file="Copyright.txt" name="Copyright"/>
+  </Licenses>
+  <SHA1>5bde3d4341f3ee45fce607d758c770a2c4faac49</SHA1>
+ </PackageUpdate>
+ <SHA1>04363580c0ebfd06797511c0144fe7ea28ebe483</SHA1>
+ <MetadataName>2025-01-28-1427_meta.7z</MetadataName>
+</Updates>
