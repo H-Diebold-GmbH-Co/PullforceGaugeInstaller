@@ -10,7 +10,7 @@
   <ReleaseDate>2025-02-11</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="23902954" OS="Any" UncompressedSize="90819008"/>
+  <UpdateFile CompressedSize="23903176" OS="Any" UncompressedSize="90819008"/>
   <DownloadableArchives>fonts.7z,generic.7z,iconengines.7z,imageformats.7z,images.7z,networkinformation.7z,platforms.7z,Pullforce Gauge Update File.7z,qml.7z,qmltooling.7z,templates.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="License agreement"/>
@@ -19,8 +19,8 @@
    <License file="Used libraries.txt" name="Used Libraries"/>
    <License file="Copyright.txt" name="Copyright"/>
   </Licenses>
-  <SHA1>e2d8b27d5254183a5911f52cb6ee23467a6d853b</SHA1>
+  <SHA1>c9796a13b3fcb6d27901afe5911e488b0ea092a6</SHA1>
  </PackageUpdate>
- <SHA1>91bb1236eb19429f896af0e15ddf471f12875a7c</SHA1>
- <MetadataName>2025-02-11-1152_meta.7z</MetadataName>
+ <SHA1>1d156e9548fb0fe0046b4125f10a0dee0fdf0e48</SHA1>
+ <MetadataName>2025-02-11-1157_meta.7z</MetadataName>
 </Updates>
