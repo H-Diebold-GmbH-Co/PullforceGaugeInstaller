@@ -2,17 +2,17 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>c66329ed5bbbb68ae33bca8c58318e3c5470b0c4</SHA1>
- <MetadataName>2025-09-08-1527_meta.7z</MetadataName>
+ <SHA1>afc476543b2ee02072e1e3be11724ee1aeb83512</SHA1>
+ <MetadataName>2025-09-22-1329_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.diebold.pullforcegaugeconfigurator</Name>
   <DisplayName>Pullforce Gauge Configurator</DisplayName>
   <Description>This installer installs the Configuration tool for the digital Pullforce Gauge</Description>
-  <Version>1.0.3</Version>
-  <ReleaseDate>2025-09-08</ReleaseDate>
+  <Version>1.0.4</Version>
+  <ReleaseDate>2025-09-22</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="26766106" OS="Any" UncompressedSize="103810011"/>
+  <UpdateFile CompressedSize="26768126" OS="Any" UncompressedSize="103813083"/>
   <DownloadableArchives>fonts.7z,generic.7z,iconengines.7z,imageformats.7z,images.7z,networkinformation.7z,platforms.7z,Pullforce Gauge Update File.7z,qml.7z,qmltooling.7z,templates.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="License agreement"/>
@@ -21,6 +21,6 @@
    <License file="Used libraries.txt" name="Used Libraries"/>
    <License file="Copyright.txt" name="Copyright"/>
   </Licenses>
-  <SHA1>264851fe3a5647a026732aaf210de64948163987</SHA1>
+  <SHA1>211b0ec4a0c874c633b32b731d66785ae035c829</SHA1>
  </PackageUpdate>
 </Updates>
